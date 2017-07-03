@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492347614 source:f:\algorithmpractise\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+

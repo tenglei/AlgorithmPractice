@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1498981404 source:f:\algorithmpractise\quicksort\main.cpp
+	<iostream>
+	"time.h"
+	"vector"
+	"stdlib.h"
+
